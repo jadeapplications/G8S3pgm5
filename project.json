@@ -1,0 +1,10 @@
+{
+    "name": "G8S3pgm5",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "G8S3pgm5.xml",
+    "author": "mykepredko",
+    "minimum_firmware_version": 42
+}
